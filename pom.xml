@@ -4,7 +4,7 @@
   <groupId>com.sudharsanan</groupId>
   <artifactId>additionapp-core</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>additionapp-core</name>
   <url>http://maven.apache.org</url>
   <dependencies><!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
